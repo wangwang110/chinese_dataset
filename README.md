@@ -2,9 +2,8 @@
 
 收集各任务，各领域中文数据
 
-## 摘要
 
-1. CLTS数据集: A Chinese Long Text Summarization Dataset  可用作摘要
+-- CLTS数据集: A Chinese Long Text Summarization Dataset， 新闻数据集，可用作摘要
 
 出处：https://github.com/lxj5957/CLTS-Dataset
 
@@ -19,10 +18,7 @@ Sample 1
 链接: https://pan.baidu.com/s/1JXoN7tu326mkh7gZmHUkrA?pwd=nwmu 提取码: nwmu 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 
-
-## 文本分类
-
-1. 清华新闻（THUCNews）数据
+2. 清华新闻（THUCNews），新闻数据集可用于标题生成，文本领域分类
 
 清华新闻（THUCNews）数据是清华大学自然语言处理实验室整理，根据新浪新闻RSS订阅频道2005~2011年间的历史数据筛选过滤生成，在原始新浪新闻分类体系的基础上，重新整合划分出14个候选分类类别：财经、彩票、房产、股票、家居、教育、科技、社会、时尚、时政、体育、星座、游戏、娱乐。
 
@@ -45,19 +41,17 @@ Sample 1
 链接: https://pan.baidu.com/s/1dJysoN8MomIiUR-MfLvmhg?pwd=2zw9 提取码: 2zw9 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 
-2. 搜狗新闻（SogouCS）数据
+2. 搜狗新闻（SogouCS），新闻数据集可用作摘要，标题生成
 
 出处：https://www.sogou.com/labs/resource/cs.php （下载不成功）
 
-以下是别人处理过的版本，来自https://zhuanlan.zhihu.com/p/341398288
+以下是处理过的版本，来自https://zhuanlan.zhihu.com/p/341398288
 
 样例：
 
 
 
-
-## 对话
-1. 来自：https://github.com/codemayq/chinese_chatbot_corpus
+来自：https://github.com/codemayq/chinese_chatbot_corpus
 
 文件名： raw_chat_corpus.zip
 
