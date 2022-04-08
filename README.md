@@ -3,7 +3,7 @@
 收集各任务，各领域中文数据
 
 
--- CLTS数据集: A Chinese Long Text Summarization Dataset， 新闻数据集，可用作摘要
+- CLTS数据集: A Chinese Long Text Summarization Dataset， 新闻数据集，可用作摘要
 
 出处：https://github.com/lxj5957/CLTS-Dataset
 
