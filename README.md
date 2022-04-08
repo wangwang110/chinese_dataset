@@ -4,7 +4,7 @@
 
 ## 摘要
 
-1. CLTS数据集: A Chinese Long Text Summarization Dataset
+1. CLTS数据集: A Chinese Long Text Summarization Dataset  可用作摘要
 
 出处：https://github.com/lxj5957/CLTS-Dataset
 
@@ -43,6 +43,17 @@ Sample 1
 ```
 
 链接: https://pan.baidu.com/s/1dJysoN8MomIiUR-MfLvmhg?pwd=2zw9 提取码: 2zw9 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+
+2. 搜狗新闻（SogouCS）数据
+
+出处：https://www.sogou.com/labs/resource/cs.php （下载不成功）
+
+以下是别人处理过的版本，来自https://zhuanlan.zhihu.com/p/341398288
+
+样例：
+
+
 
 
 ## 对话
