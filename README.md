@@ -45,14 +45,11 @@ Sample 1
 链接: https://pan.baidu.com/s/1dJysoN8MomIiUR-MfLvmhg?pwd=2zw9 提取码: 2zw9 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 
-2. 
-
 ## 对话
 1. 来自：https://github.com/codemayq/chinese_chatbot_corpus
 
 文件名： raw_chat_corpus.zip
 
-2.
 
 ## 预训练语言模型数据
 
