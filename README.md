@@ -65,6 +65,7 @@ https://github.com/brightmart/nlp_chinese_corpus
 
 https://github.com/pluto-junzeng/C4-zh
 
+https://github.com/liucongg/GPT2-NewsTitle
 
 https://github.com/liuhuanyong/ChineseDiachronicCorpus
 
